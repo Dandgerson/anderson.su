@@ -1,0 +1,20 @@
+{
+  "name": "anderson.su",
+  "homepage": "https://github.com/Dandgerson/anderson.su",
+  "authors": [
+    "Dmitry Anderson <DandGerson@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

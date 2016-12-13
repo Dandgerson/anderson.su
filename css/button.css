@@ -1,0 +1,111 @@
+.btn-custom {
+	color: #ffffff;
+	border-radius: 20px;
+	border: 0px solid rgba(255,255,255,0.3);
+	padding: 10px 30px;
+	text-decoration: none;
+	display: inline-block;
+}
+.btn-sm-rad {
+	border-radius: 5px;
+}
+.btn-custom-default{
+	background-color: #A9A9A9;
+	
+}
+.btn-custom-default:hover{
+	background-color: #565656;
+	text-decoration: none;
+	color: #fff;
+}
+.btn-custom-success{
+	background-color: #5cb85c;
+	
+}
+.btn-custom-success:hover{
+	background-color: #449d44;
+	text-decoration: none;
+	color: #fff;
+}
+.btn-custom-danger{
+	background-color: #f67280;
+	
+}
+.btn-custom-danger:hover{
+	background-color: #f45a6a;
+	text-decoration: none;
+	color: #fff;
+}
+.btn-custom-info {
+	background-color: #8393EE;
+	
+}
+.btn-custom-info:hover{
+	background-color: #6878D3;
+	text-decoration: none;
+	color: #fff;
+}
+.btn-pricing-1,
+.btn-pricing-2,
+.btn-pricing-3,
+.btn-pricing-4 {
+	padding-right: 10px;
+	transition: 0.5s;
+	color: #848484;
+	border: 2px solid #848484;
+	background-color: #fff;
+}
+.btn-pricing-1:hover {
+	border: 2px solid #f67280;
+	color: #f67280;
+	text-decoration: none;
+	box-shadow: 3px 10px 15px 1px #848484;
+}
+.btn-pricing-2:hover {
+	border: 2px solid #c06c84;
+	color: #c06c84;
+	text-decoration: none;
+	box-shadow: 3px 10px 15px 1px #848484;
+}
+.btn-pricing-3:hover {
+	border: 2px solid #6c5b7b;
+	color: #6c5b7b;
+	text-decoration: none;
+	box-shadow: 3px 10px 15px 1px #848484;
+}
+.btn-pricing-4:hover {
+	border: 2px solid #355c7d;
+	color: #355c7d;
+	text-decoration: none;
+	box-shadow: 3px 10px 15px 1px #848484;
+}
+.btn-contact {
+	background: #eee;
+	margin: 0px 0;
+	padding: 16px 25px; 
+	border: 0px solid rgba(255,255,255,0.3);
+	padding: 10px 30px;
+	text-decoration: none;
+	display: inline-block;
+	color: #565656;
+}
+.btn-contact-fb {
+	border-radius: 0px 3px 3px 0px;
+}
+.btn-contact-fb:hover {
+	background-color: #3b5998;
+	color: #fff;
+	text-decoration: none;
+}
+.btn-contact-tw {
+	border-radius: 3px 0 0 3px;
+}
+.btn-contact-tw:hover {
+	background-color: #55acee;
+	color: #fff;
+	text-decoration: none;
+}
+.btn-control {
+	border-radius: 3px;
+	padding: 15px;
+}

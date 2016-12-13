@@ -1,0 +1,119 @@
+/*this css providihg a customisation in the bootstrap's styles for this webpage*/
+body {
+	padding-top: 50px;
+}
+p {
+	text-indent: 20px;
+}
+.home {
+	background-image: url(../img/11.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 650px;
+}
+.home .content-box	{
+	margin-top: 35%;
+}
+.home-control {
+	text-align: center;
+}
+.about .content-box {
+	margin-top: 50px;
+}
+.about .content-box1 {
+	padding-top: 10%;
+	margin: 20px 0;
+}
+.about .content-box2 {
+	margin: 20px 0;
+}
+.about-control {
+	margin-top: 5%;
+}
+.pricing .top-line {
+	background-color: rgba(104,120,211,0.2);
+}
+.pricing-item {
+	max-width: 80%;
+	margin: 0 auto;
+}
+.pricing-item span {
+	font-size: 25px;
+	font-weight: bold;
+}
+.pricing-item small {
+	font-size: 16px;
+	font-weight: bold;
+}
+.pr-hr {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.color-1 {
+	color: #f67280;
+}
+.color-2 {
+	color: #c06c84;
+}
+.color-3 {
+	color: #6c5b7b;
+}
+.color-4 {
+	color: #355c7d;
+}
+.hr-1 {
+	border: 1px solid #f67280;
+}
+.hr-2 {
+	border: 1px solid #c06c84;
+}
+.hr-3 {
+	border: 1px solid #6c5b7b;
+}
+.hr-4 {
+	border: 1px solid #355c7d;
+}
+.pricing-control {
+	margin-top: 30px; 
+}
+.team-control {
+	float: right;
+	margin-top: -20px;
+}
+.skills-box-2-item {
+	width: 140px;
+	height: 140px;
+	border: 1px solid #000;
+	border-radius: 80px;
+	text-align: center;
+	margin: 0 auto;
+}
+.sk-item-mod-1 {
+	border: 4px solid #f67280;
+}
+.sk-item-mod-2 {
+	border: 4px solid #c06c84;
+}
+.sk-item-mod-3 {
+	border: 4px solid #6c5b7b;
+}
+.sk-item-mod-4 {
+	border: 4px solid #355c7d;
+}
+.skills-text {
+	margin-top: 45%;
+}
+.well+img {
+	max-width: 20%;
+	float: left;
+}
+.comment-name {
+	float: left;
+	padding-left: 30px;
+	margin-top: 20px;
+	}
+	.signup {
+		background: linear-gradient(#5E71E0, #F67280);
+		height: 300px;
+	}

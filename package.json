@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Dandgerson/anderson.su/issues"
   },
-  "homepage": "https://github.com/Dandgerson/anderson.su#readme"
+  "homepage": "https://github.com/Dandgerson/anderson.su#readme",
+  "dependencies": {
+    "bower": "^1.8.4"
+  }
 }
